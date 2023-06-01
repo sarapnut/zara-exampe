@@ -1,0 +1,46 @@
+/*   */
+body{
+
+    background-color:#FAFDD6;
+}
+table{
+
+    background-color:#E6BA95;
+    width: 60%;
+}
+
+
+
+
+
+  
+
+ tr{
+
+    background-color: #F8F1F1;
+ }
+
+ h2{
+
+font-size: xxx-large;
+font-weight: 200;
+
+ }
+
+ div>table.test{
+
+background-color: white;
+
+ }
+
+  body.test2{
+
+   background-color: white;
+  }
+
+  h1{
+
+font-size: 200px;
+font-weight: lighter;
+
+  }

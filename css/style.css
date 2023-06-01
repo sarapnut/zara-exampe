@@ -1,0 +1,39 @@
+/* */
+
+img{
+    width: 50%;
+}
+
+td.test{
+    font-size: xxx-large;
+    color: #A2B38B;
+}
+
+a{
+    color: burlywood;
+    text-decoration: none;
+    
+}
+
+
+h3{
+
+color: #4c5a38;
+
+}
+ul{
+color: #A2B38B;
+font-size: x-small;
+
+}
+
+pre>a{
+
+background-color: #adcc82;
+color: #4c5a38;
+font-size: xx-large;
+width: 500px;;
+height: 500px;
+  border-radius: 50%;
+text-decoration: none;
+}
